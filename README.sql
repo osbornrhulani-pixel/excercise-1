@@ -1,6 +1,3 @@
-This repository contains my SQL fundamentals exercises as part of my journey to develop practical SQL and data analytics skills.
-
-The exercises focus on the core SQL concepts used to retrieve, filter, organize, and analyze data from relational databases.
 --- creating catalog 
 CREATE CATALOG IF NOT EXISTS excercise1;
 --- creating schema
